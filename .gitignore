@@ -1,0 +1,6 @@
+.venv/
+mnist_test_seq.npy
+archive.zip
+KTH/
+__pycache__/
+checkpoints*/
